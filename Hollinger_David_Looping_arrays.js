@@ -4,7 +4,7 @@ const arr = [
     [6, 2, 12, 14, -24, 5, 0],
     [13, 45, -2, 5],
 ];
-const numArray = 4;
+const numArray = arr.length;
 let i = 0;
 let countGreaterThanFive = 0;
 let store = [];
